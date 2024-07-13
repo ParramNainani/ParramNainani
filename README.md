@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParramNainani
 - 👀 I’m interested in coding and making ai projects
-- 🌱 I’m currently learning R and Python 
+- 🌱 I’m currently learning C and Python 
 - 📫 You can email me for projects and collaborations at: parramnainani@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am gonna pursue computer science engineering
