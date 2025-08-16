@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parram Nainani</h1>
 <h3 align="center">From data structures to destiny: a CSE ‘28 journey through AI, astrology & animation</h3>
 
-- 🔭 I’m currently working on [Personal Portfolio Website](..)
+- 🔭 I’m currently working on [Personal Portfolio Website](parramnainani.vercel.app)
 
 - 🌱 I’m currently learning **GSAP, Firebase, React**
 
-- 👯 I’m looking to collaborate on [Flutter-based Open Source Apps](..)
+- 👯 I’m looking to collaborate on [Flutter-based Open Source Apps]
 
 - 💬 Ask me about **Python, Flutter, openCV**
 
