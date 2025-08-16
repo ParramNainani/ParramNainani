@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parram Nainani</h1>
 <h3 align="center">From data structures to destiny: a CSE ‘28 journey through AI, astrology & animation</h3>
 
-- 🔭 I’m currently working on [Personal Portfolio Website](Portfolio)
+- 🔭 I’m currently working on [Personal Portfolio Website](https://parramnainani.vercel.app/)
 
 - 🌱 I’m currently learning **GSAP, Firebase, React**
 
